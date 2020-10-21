@@ -1,6 +1,4 @@
 # easy-ai
-![alt text](/images/easy-ai.png)
-
 
 # Installation
 ```
@@ -10,3 +8,6 @@ pip install torch torchvision
 
 # How to run?
 `bash scripts/app.py`
+
+
+![preview](/images/easy-ai.png)
