@@ -7,7 +7,7 @@ pip install torch torchvision
 ```
 
 # How to run?
-`bash scripts/app.py`
+`bash scripts/start.sh`
 
 # TODO
 - [ ] Evaluation of validation data
