@@ -3,7 +3,7 @@
 # Installation
 ```
 pip install streamlit
-pip install torch torchvision
+pip install torch torchvision pillow
 ```
 
 # How to run?
